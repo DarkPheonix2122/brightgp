@@ -1,0 +1,2 @@
+# brightgp
+Bright Game Panel
